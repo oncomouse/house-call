@@ -23,7 +23,7 @@ module.exports = {
   },
   output: {
     filename: '[name].[contenthash].js',
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, 'docs'),
   },
   module: {
     rules: [
@@ -54,7 +54,7 @@ module.exports = {
     }),
     new CleanWebpackPlugin(),
     new CopyPlugin({
-      patterns: [{ from: 'static', to: '../dist' }],
+      patterns: [{ from: 'static', to: '../docs' }],
     }),
   ],
   devServer: {
