@@ -1,4 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
+import Question from './organisms/Question';
 
 const Helmet =
   typeof window === 'undefined'
@@ -90,6 +91,7 @@ const Page = () => {
           ) : null}
         </Helmet>
       ) : null}
+      <Question />
     </>
   );
 };
