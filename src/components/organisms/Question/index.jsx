@@ -18,7 +18,7 @@ const Question = () => {
       <Clue>{question.clue}</Clue>
       <House>{question.house}</House>
       <p>
-        <Button type="button" onclick={() => updateQuestion(getQuestion())}>
+        <Button type="button" onClick={() => updateQuestion(getQuestion())}>
           What House?
         </Button>
       </p>

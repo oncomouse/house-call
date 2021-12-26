@@ -61,16 +61,16 @@ const Page = () => {
           {/* ) : ( */}
           {/*   <link rel="canonical" href="https://warsaw.flatstack.com/ru" /> */}
           {/* )} */}
-          <link
-            rel="alternate"
-            hrefLang="en"
-            href="https://warsaw.flatstack.com/"
-          />
-          <link
-            rel="alternate"
-            hrefLang="ru"
-            href="https://warsaw.flatstack.com/ru"
-          />
+          {/* <link */}
+          {/*   rel="alternate" */}
+          {/*   hrefLang="en" */}
+          {/*   href="https://warsaw.flatstack.com/" */}
+          {/* /> */}
+          {/* <link */}
+          {/*   rel="alternate" */}
+          {/*   hrefLang="ru" */}
+          {/*   href="https://warsaw.flatstack.com/ru" */}
+          {/* /> */}
           {/* <meta name="description" content={t('metaDescription')} /> */}
           {/* <meta name="keywords" content={t('metaKeywords')} /> */}
 
@@ -85,7 +85,7 @@ const Page = () => {
           {process.env.NODE_ENV === 'production' ? (
             <script
               defer
-              data-domain="warsaw.flatstack.com"
+              data-domain="oncomouse.github.io"
               src="/js/script.js"
             />
           ) : null}
