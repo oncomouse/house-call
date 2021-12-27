@@ -39,6 +39,26 @@ const houses = [
     house: '2801 Camelot',
     clue: 'No Numbers',
   },
+  {
+    house: '2812 Camelot',
+    clue: 'Secure Drop',
+  },
+  {
+    house: '2918 Camelot',
+    clue: 'Sunflower House',
+  },
+  {
+    house: '2910 Camelot',
+    clue: 'Christmas Goat',
+  },
+  {
+    house: '2910 Camelot',
+    clue: 'Poor Kerning',
+  },
+  {
+    house: '2913 Camelot',
+    clue: 'Reveille',
+  },
 ];
 
 global.houses = houses;
