@@ -1,4 +1,10 @@
+import styled from 'styled-components';
+
+const TitleContents = styled.h1`
+  margin: 0;
+`;
+
 const Title = () => {
-  return <h1>No Numbers!</h1>;
+  return <TitleContents>What house:</TitleContents>;
 };
 export default Title;

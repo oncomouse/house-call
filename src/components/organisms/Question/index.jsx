@@ -10,9 +10,13 @@ const QuestionRegion = styled.hgroup`
 `;
 const QuestionComponent = styled.h2`
   margin: 0;
+  font-size: 1.75rem;
 `;
 const Clue = styled(QuestionComponent)``;
-const House = styled(QuestionComponent)``;
+const House = styled(QuestionComponent)`
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+`;
 const Button = styled.button`
   font-size: 1.5rem;
   background-color: ${({ theme }) => theme.colors.secondary};
