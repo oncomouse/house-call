@@ -59,6 +59,30 @@ const houses = [
     house: '2913 Camelot',
     clue: 'Reveille',
   },
+  {
+    house: '2609 Rustling Oaks',
+    clue: 'Dragon',
+  },
+  {
+    house: '2613 Rustling Oaks',
+    clue: 'Yellow Bird',
+  },
+  {
+    house: '1918 Debbie',
+    clue: 'Red Bird',
+  },
+  {
+    house: '1916 Debbie',
+    clue: 'Blue Bird',
+  },
+  {
+    house: '1903 Debbie',
+    clue: 'Really Big Numbers on Mailbox',
+  },
+  {
+    house: '2100 Ella',
+    clue: 'Green Bird',
+  },
 ];
 
 global.houses = houses;
