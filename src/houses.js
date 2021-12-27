@@ -100,6 +100,10 @@ const houses = [
     clue: 'Owl on Mailbox',
   },
   {
+    house: '2913 Burning Tree',
+    clue: 'Green Carpet',
+  },
+  {
     house: '2904 Burning Tree',
     clue: 'Star Wars House',
   },
