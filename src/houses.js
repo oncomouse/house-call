@@ -68,6 +68,22 @@ const houses = [
     clue: 'Yellow Bird',
   },
   {
+    house: '2703 Rustling Oaks',
+    clue: 'Roosters',
+  },
+  {
+    house: '2711 Rustling Oaks',
+    clue: 'Sewing Machine',
+  },
+  {
+    house: '2803 Rustling Oaks',
+    clue: "Laura Mandel's House",
+  },
+  {
+    house: '2901 Rustling Oaks',
+    clue: "Ginger's House",
+  },
+  {
     house: '1918 Debbie',
     clue: 'Red Bird',
   },
