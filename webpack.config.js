@@ -6,6 +6,7 @@ const CopyPlugin = require('copy-webpack-plugin');
 const PatchHtmlWebpackPluginPlugin = require('./PatchHtmlWebpackPluginPlugin');
 
 const NODE_ENV = process.env.NODE_ENV || 'development';
+const OUTPUT_DIRECTORY = NODE_ENV === 'production' ? 'docs' : '.tmp';
 
 module.exports = {
   context: path.resolve(__dirname, 'src'),
@@ -23,7 +24,7 @@ module.exports = {
   },
   output: {
     filename: '[name].[contenthash].js',
-    path: path.resolve(__dirname, 'docs'),
+    path: path.resolve(__dirname, OUTPUT_DIRECTORY),
   },
   module: {
     rules: [
@@ -54,7 +55,7 @@ module.exports = {
     }),
     new CleanWebpackPlugin(),
     new CopyPlugin({
-      patterns: [{ from: 'static', to: '../docs' }],
+      patterns: [{ from: 'static', to: `../${OUTPUT_DIRECTORY}` }],
     }),
   ],
   devServer: {
