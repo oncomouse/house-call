@@ -84,6 +84,30 @@ const houses = [
     clue: "Ginger's House",
   },
   {
+    house: '2914 Burning Tree',
+    clue: 'Only 4 on the Mailbox',
+  },
+  {
+    house: '2910 Burning Tree',
+    clue: 'Texas Flag',
+  },
+  {
+    house: '2902 Burning Tree',
+    clue: 'Pretty Mailbox',
+  },
+  {
+    house: '2901 Burning Tree',
+    clue: 'Owl on Mailbox',
+  },
+  {
+    house: '2904 Burning Tree',
+    clue: 'Star Wars House',
+  },
+  {
+    house: '2923 Braeburn',
+    clue: 'Crazy Corner House',
+  },
+  {
     house: '1918 Debbie',
     clue: 'Red Bird',
   },
