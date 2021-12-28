@@ -4,8 +4,8 @@ const houses = [
     clue: 'Our House',
   },
   {
-    house: '2809 Camelot',
-    clue: 'Turkey house',
+    house: '2809 Rustling Oaks',
+    clue: 'Turkey House',
   },
   {
     house: '2806 Briar Creek Court',
