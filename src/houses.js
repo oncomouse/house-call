@@ -139,6 +139,26 @@ const houses = [
     house: '3103 Broadmoor',
     clue: 'Cat Apartment',
   },
+  {
+    house: '3206 Peterson',
+    clue: 'House House Number House',
+  },
+  {
+    house: '2915 Braeburn',
+    clue: 'Red Rock Yard',
+  },
+  {
+    house: '2913 Broadmoor',
+    clue: 'Star Student of Character',
+  },
+  {
+    house: '3010 Broadmoor',
+    clue: 'Big Numbers',
+  },
+  {
+    house: '2808 Camelot',
+    clue: 'Big Numbers',
+  },
 ];
 
 global.houses = houses;
