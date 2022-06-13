@@ -159,6 +159,22 @@ const houses = [
     house: '2808 Camelot',
     clue: 'Big Numbers',
   },
+  {
+    house: '2821 Cherry Creek',
+    clue: 'House Mailbox House',
+  },
+  {
+    house: '2907 Chaparral',
+    clue: 'Zig-zag House',
+  },
+  {
+    house: '3403 Broadmoor',
+    clue: 'Last House on Broadmoor',
+  },
+  {
+    house: '702 Broadmoor',
+    clue: 'First House on Broadmoor',
+  },
 ];
 
 global.houses = houses;
