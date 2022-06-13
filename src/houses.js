@@ -127,6 +127,18 @@ const houses = [
     house: '2100 Ella',
     clue: 'Green Bird',
   },
+  {
+    house: '2909 Broadmoor',
+    clue: 'Good Kerning',
+  },
+  {
+    house: '2915 Broadmoor',
+    clue: 'Bald Eagle Mailbox',
+  },
+  {
+    house: '3103 Broadmoor',
+    clue: 'Cat Apartment',
+  },
 ];
 
 global.houses = houses;
