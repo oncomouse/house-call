@@ -9,7 +9,7 @@ const houses = [
   },
   {
     house: '2806 Briar Creek Court',
-    clue: 'New Mailbox',
+    clue: 'New Mailbox, New Baby',
   },
   {
     house: '1916 Debbie',
