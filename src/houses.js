@@ -183,6 +183,10 @@ const houses = [
     house: '2603 Hollow Oaks',
     clue: 'Texas Mailbox',
   },
+  {
+    house: '3105 Evan',
+    clue: 'Turtle Mailbox',
+  },
 ];
 
 global.houses = houses;
