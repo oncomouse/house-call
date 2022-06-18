@@ -175,6 +175,14 @@ const houses = [
     house: '702 Broadmoor',
     clue: 'First House on Broadmoor',
   },
+  {
+    house: '2506 Rustling Oaks',
+    clue: 'Big Mailbox',
+  },
+  {
+    house: '2603 Hollow Oaks',
+    clue: 'Texas Mailbox',
+  },
 ];
 
 global.houses = houses;
