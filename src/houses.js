@@ -121,7 +121,7 @@ const houses = [
   },
   {
     house: '1903 Debbie',
-    clue: 'Really Big Numbers on Mailbox',
+    clue: 'Deer Mailbox',
   },
   {
     house: '2100 Ella',
