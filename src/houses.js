@@ -187,6 +187,62 @@ const houses = [
     house: '3105 Evan',
     clue: 'Turtle Mailbox',
   },
+  {
+    house: '2525 Villa Maria',
+    clue: 'Bright Beginning',
+  },
+  {
+    house: '2108 Red River',
+    clue: 'Crescent Moon',
+  },
+  {
+    house: '1101 Braeswood',
+    clue: 'Jimmy',
+  },
+  {
+    house: '2702 Villa Maria',
+    clue: "Holman's Quality Plumbing",
+  },
+  {
+    house: '2501 Whispering Oaks',
+    clue: 'Horseshoe',
+  },
+  {
+    house: '2807 Rustling Oaks',
+    clue: 'Indoor Pool',
+  },
+  {
+    house: '2903 Rustling Oaks',
+    clue: 'Pretty Blue Door',
+  },
+  {
+    house: '2903 Camelot',
+    clue: 'Palmtree',
+  },
+  {
+    house: '2508 Rustling Oaks',
+    clue: 'Green Background Numbers',
+  },
+  {
+    house: '6029 N. 16th Pl',
+    clue: 'Phoenix',
+  },
+  {
+    house: '1343 Harris St.',
+    clue: 'Penn State',
+  },
+  {
+    house: '1611 Doncaster',
+    clue: 'Grandma',
+  },
+  {
+    house: '2100 Nicole',
+    clue: 'Chimes',
+  },
+  {
+    house: '2718 Camelot',
+    clue: 'Mrs. Lewis',
+  },
 ];
 
 global.houses = houses;
