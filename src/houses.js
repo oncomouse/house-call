@@ -243,6 +243,14 @@ const houses = [
     house: '2718 Camelot',
     clue: 'Mrs. Lewis',
   },
+  {
+    house: '2705 Rustling Oaks',
+    clue: 'Red Shutters',
+  },
+  {
+    house: '1922 Debbie',
+    clue: 'Last House on Debbie',
+  },
 ];
 
 global.houses = houses;
