@@ -251,6 +251,34 @@ const houses = [
     house: '1922 Debbie',
     clue: 'Last House on Debbie',
   },
+  {
+    house: 'Three Birds',
+    clue: '2626 Lochnivar',
+  },
+  {
+    house: 'Orange Turtle Mailbox',
+    clue: '3107 Evan',
+  },
+  {
+    house: 'Cut Off Number Mailbox',
+    clue: '2509 Broadmoor',
+  },
+  {
+    house: 'Cut Off Zero',
+    clue: '2502 River Forest',
+  },
+  {
+    house: 'Pineapple',
+    clue: '2907 Rustling Oaks',
+  },
+  {
+    house: 'White Bird',
+    clue: '3218 Peterson',
+  },
+  {
+    house: 'Upside "8"',
+    clue: '2908 Briar Creek Court',
+  },
 ];
 
 global.houses = houses;
