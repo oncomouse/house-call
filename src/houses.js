@@ -279,6 +279,10 @@ const houses = [
     house: 'Upside "8"',
     clue: '2908 Briar Creek Court',
   },
+  {
+    house: 'Red Roof',
+    clue: '2500 River Forest',
+  },
 ];
 
 global.houses = houses;
